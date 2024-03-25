@@ -1,4 +1,3 @@
-@@ -1,29 +1 @@
 package net.tslat.aoa3.client.render.entities.mobs.overworld;
 
 import net.minecraft.client.renderer.entity.RenderManager;
